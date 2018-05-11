@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/wechat/portal")
 public class WechatController {
-  //日志
+  //日志  ff
   private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
   @Autowired
